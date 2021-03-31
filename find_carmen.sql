@@ -64,11 +64,11 @@ WHERE code = 'BRA';
 
 SELECT capital
 FROM country
-WHERE name ='Brazil';
-SELECT name, countrycode FROM city WHERE id=211;
+WHERE name = 'Brazil';
+
 SELECT name
 FROM city
-WHERE id = 211;
+WHERE id=211;
 
 "Brasï¿½lia"
 
